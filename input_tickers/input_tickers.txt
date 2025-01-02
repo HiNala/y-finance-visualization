@@ -1,0 +1,26 @@
+# Stock Universe - Ticker Input File
+# Add one ticker symbol per line
+# Lines starting with # are comments and will be ignored
+
+# Tech Giants
+AAPL    # Apple Inc.
+MSFT    # Microsoft Corporation
+GOOGL   # Alphabet Inc. (Google)
+AMZN    # Amazon.com Inc.
+META    # Meta Platforms Inc.
+
+# Semiconductor
+NVDA    # NVIDIA Corporation
+AMD     # Advanced Micro Devices
+INTC    # Intel Corporation
+
+# Electric Vehicles
+TSLA    # Tesla Inc.
+RIVN    # Rivian Automotive
+
+# Financial
+JPM     # JPMorgan Chase & Co.
+GS      # Goldman Sachs Group
+V       # Visa Inc.
+
+# Add your tickers below: 
